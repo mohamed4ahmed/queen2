@@ -1,0 +1,17 @@
+.greeting-wrapper {
+  display: grid;
+  text-align: center;
+  align-content: center;
+}
+
+.greeting-wrapper p {
+  font-size: 15px;
+  padding: 7px;
+}
+
+/* .mo {
+  color:  #00bfd5; 
+}
+.mo:hover {
+  color: rgb(180, 180, 209);
+} */
